@@ -1,5 +1,5 @@
 {
-    "name": "martinjuul/many-to-many",
+    "name": "dynamicnet/many-to-many",
     "description": "A Laravel Nova field.",
     "keywords": [
         "laravel",
@@ -9,7 +9,7 @@
     ],
     "license": "MIT",
     "support": {
-        "issues": "https://github.com/martin-juul/many-to-many/issues"
+        "issues": "https://github.com/dynamicnet/many-to-many/issues"
     },
     "readme": "README.md",
     "authors": [
